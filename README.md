@@ -1,3 +1,3 @@
 # airbnb
 airbnb code style
-rrr
+best way to learn code style
